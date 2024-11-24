@@ -22,7 +22,7 @@ Designed for various analytical applications, this dataset is an invaluable reso
 ### Data Source
 ---
 
-The data used for this project was downloaded kaggle.com [Download here](https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies)
+The data used for this project was downloaded from kaggle's dataset- [Download here](https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies)
 
 ### Tools Used
 ---
