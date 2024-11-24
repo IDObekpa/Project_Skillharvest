@@ -52,11 +52,11 @@ The EDA involves exploring the companies data to answer key questions and make c
 2. Comparism to see on a average the Top companies using the ROA Metrics
 3. Comparism to see on a average the Top companies using the D/E Metrics
 4. Analysis to see the trend growth of the 12 companies for the 8 years
-5. Which period generated more revenue to the business?
+5. Which company generated more revenue and Net Income in the period in view?
 
 ### Data Analysis
 1. Recomputationion of the ROE. ROE = Net Income/Total Equity, to measure how well the companies are able to generate profits from the use of its Equity's fund. This will help investors estimate a companies dividend growth. Using the 12 companies and considering the no of years in view, I used the average ROE of the companies as a bench mark in the analysis to determine top performing companies.
- 
+   
 2. Recomputation of the ROA. ROA = Net Income/Total Assets, to measure how well the companies are able to generate profits from using its Assets. This will help see companies that are more efficient in the utlization of its assets. Using the 12 companies and considering the no of years in view. I used the average ROA of the companies as a bench mark in the analysis to determine top performing companies.
 
 3. Recomputation of the Debt to Equity ratio. D/E Ratio = Total Liabilities/Total Equity, to measure the companies financial health and risk profile. This will help assess the company's ability to meet its financial obligation and the risk of defaulting on loans. A low D/E indicates that the company has less debt than equity and it is therefore less risky and vice versa.
@@ -66,6 +66,10 @@ The EDA involves exploring the companies data to answer key questions and make c
 4. Performing trend analysis, to see trend in the last 8 years for the different companies with emphasis on Net income and Revenue.
 
    <img width="483" alt="PP 006" src="https://github.com/user-attachments/assets/3d433583-8936-4fde-9c7a-2fb1f780845a">
+
+5. Top perfomring companies based on Revenue and Net Income
+
+   <img width="477" alt="PP 008" src="https://github.com/user-attachments/assets/333989a8-7dfa-4d7d-97ea-40f14ac06a9f">
 
 ---
 #### Results / Findings
