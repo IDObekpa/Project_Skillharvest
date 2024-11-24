@@ -69,7 +69,8 @@ The EDA involves exploring the companies data to answer key questions and make c
 
 5. Top perfomring companies based on Revenue and Net Income
 
-   <img width="477" alt="PP 008" src="https://github.com/user-attachments/assets/333989a8-7dfa-4d7d-97ea-40f14ac06a9f">
+   <img width="474" alt="PP 008" src="https://github.com/user-attachments/assets/a1cd0ee8-e181-407b-914a-ff2b1c8973ec">
+
 
 ---
 #### Results / Findings
