@@ -55,6 +55,14 @@ The EDA involves exploring the companies data to answer key questions and make c
 5. Which period generated more revenue to the business?
 
 ### Data Analysis
+1. Recomputationion of the ROE. ROE = Net Income/Total Equity, to measure how well the companies are able to generate profits from its Equity. Using the 12 companies and considering the no of years in view. i used the average ROE for the companies as a bench mark in the analysis to determine top performing companies.
+ 
+2. Recomputation of the ROA. ROA = Net Income/Total Assets, to measure how well the companies are able to generate profits from using its Assets. This will help see companies that are more efficient in the utlization of its assets. Using the 12 companies and considering the no of years in view. I used the average ROA for the companies as a bench mark in the analysis to determine top performing companies.
+
+3. Recomputation of the Debt to Equity ratio. D/E Ratio = Total Liabilities/Total Equity, to measure the companies financial health and risk profile. This will help assess the company's ability to meet its financial obligation and the risk of defaulting on loans. Alow D/E indicates that the company has less debt than equity and it is therefore less risky and vice versa.
+
+   <img width="475" alt="PP 007" src="https://github.com/user-attachments/assets/2e97109f-af97-42f0-b169-cd68d60f5df3">
+
 ---
 #### Results / Findings
 
