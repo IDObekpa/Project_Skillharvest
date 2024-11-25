@@ -102,6 +102,9 @@ In my opinion and for the purpose of this analysis. I will recommend Volkswagen 
 
 
 ### References
+
+Kaggle.com
+Investopedia
 ---
 💻
 
