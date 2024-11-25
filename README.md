@@ -105,7 +105,7 @@ In my opinion and for the purpose of this analysis. I will recommend Volkswagen 
 
 Kaggle.com
 
-Ivestopedia
+Investopedia
 
 
 ---
