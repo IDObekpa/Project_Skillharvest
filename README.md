@@ -76,15 +76,27 @@ The EDA involves exploring the companies data to answer key questions and make c
 #### Results / Findings
 
 The findings from the analysis are summarise as follow:
+In terms of Profitability, see top perfoming companies investors will be interested in;
 
+1. Volkswagen AG with the highest average ROA of 0.86 and average ROE of 1.8, which is by far higher than the average of the 12 companies.
+2. Allianz SE with an average ROA of 0.81 and average ROE of 1.8
+3. Bayer AG with an average ROA of 0.76 and average ROE of 1.7
+
+ Rating the companies based on their leverage ratios. See top performing companies;
+
+1. BASF SE with an average Debt to Equity ratio of 1.0
+2. Volkswagen AG with an average D/E of 1.1
+3. Deutsche Telekom AG with an average D/E of 1.1
  
 
 ### Recommendations
+
+In my opinion and for the purpose of this analysis. I will recommend Volkswagen AG as to top performing company using financial ratio analysis above.
+ 
 ---
 
  
-### Limitations
----
+
 
 
 
