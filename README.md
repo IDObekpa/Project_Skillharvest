@@ -87,7 +87,12 @@ In terms of Profitability, see top perfoming companies investors will be interes
 1. BASF SE with an average Debt to Equity ratio of 1.0
 2. Volkswagen AG with an average D/E of 1.1
 3. Deutsche Telekom AG with an average D/E of 1.1
- 
+
+   
+ <img width="605" alt="PP 00312" src="https://github.com/user-attachments/assets/b834b896-895c-4c8b-8c21-bb8f777c6e5f">
+<img width="603" alt="PP 00311" src="https://github.com/user-attachments/assets/761cd0ad-0ed6-4db5-8d07-50adbdbb88ba">
+<img width="605" alt="PP 00313" src="https://github.com/user-attachments/assets/1fce214c-21c9-4c4c-bf9c-f45907f47b51">
+
 
 ### Recommendations
 
